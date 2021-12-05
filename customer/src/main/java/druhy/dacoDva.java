@@ -22,6 +22,10 @@ public class dacoDva {
 		System.out.println("anotherSecond");
 	}
 
+	public void straightZero () {
+		System.out.println("pgdn");
+	}
+
 	public void straightSecond () {
 		System.out.println("Bleeeeh");
 	}
