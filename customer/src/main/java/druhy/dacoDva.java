@@ -18,6 +18,10 @@ public class dacoDva {
 		System.out.println("first");
 	}
 
+	public void liberoFifth () {
+		System.out.println("anotherSecond");
+	}
+
 	public void straightSecond () {
 		System.out.println("Bleeeeh");
 	}
