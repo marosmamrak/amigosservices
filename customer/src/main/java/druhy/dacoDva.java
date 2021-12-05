@@ -9,4 +9,12 @@ public class dacoDva {
 	public void bugfix() {
 		System.out.println("mm");
 	}
+
+	public void liberoThird () {
+		System.out.println("first");
+	}
+
+	public void liberoFourth () {
+		System.out.println("first");
+	}
 }
