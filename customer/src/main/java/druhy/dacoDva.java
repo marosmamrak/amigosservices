@@ -17,4 +17,8 @@ public class dacoDva {
 	public void liberoFourth () {
 		System.out.println("first");
 	}
+
+	public void straightSecond () {
+		System.out.println("Bleeeeh");
+	}
 }
